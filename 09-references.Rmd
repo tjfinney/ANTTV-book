@@ -1,0 +1,9 @@
+# References
+
+Wickham, Hadley and Jenny Bryan. [R Packages](https://r-pkgs.org/).
+
+Yu, Guangchuang. [Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/index.html).
+
+Xie, Yihui. [Bookdown](https://bookdown.org/).
+
+

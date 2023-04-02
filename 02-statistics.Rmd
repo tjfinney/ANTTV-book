@@ -1,0 +1,3 @@
+# Statistics
+
+Looking at textual variation data from a statistical point of view. 

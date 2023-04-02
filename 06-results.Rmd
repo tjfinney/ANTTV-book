@@ -1,0 +1,50 @@
+# Results
+
+Results of the various methods applied to textual variation data for a few New Testament books.
+
+## Trees and maps
+
+| Book | DC | CMDS | NJ |
+|------------|------|------|------|
+| Matthew | ... | ... | ... | ... |
+| Mark | ... | ... | ... | ... |
+| Luke | ... | ... | ... | ... |
+| John | ... | ... | ... | ... |
+| Acts | ... | ... | ... | ... |
+| Romans | ... | ... | ... | ... |
+| James | ... | ... | ... | ... |
+| Revelation | ... | ... | ... | ... |
+
+## PAM partitions
+
+### Matthew
+
+...
+
+### Mark
+
+...
+
+### Luke
+
+...
+
+### John
+
+...
+
+### Acts
+
+...
+
+### Romans
+
+...
+
+### James
+
+...
+
+### Revelation
+
+...

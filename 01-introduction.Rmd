@@ -1,0 +1,94 @@
+# Introduction
+
+Many have undertaken to write accounts of how the New Testament was handed down to us by those who wrote, copied, translated, and watched over the text. It seemed good to me, having carefully investigated the matter, to write an orderly account for you, dear Reader, so that you might know the veracity of the words that have been transmitted to us.
+
+The twenty seven books and letters of the New Testament have been faithfully copied ever since they were first written by the Apostles and their helpers. Of all the ancient texts, the New Testament is by far the most well founded. There are more copies closer in date to the time of original composition than for any other written work predating mechanized printing.
+
+Individual copies are called *manuscripts*, from the Latin *manuscriptum* for *hand written*. *Manuscript* is often abbreviated as *MS* and *manuscripts* as *MSS*, using the Latin habit of doubling the last letter to pluralize. MSS were copied by hand, at first using papyrus for writing material and carbon-based ink. Parchment then paper later displaced papyrus, while inks produced from iron salts and oak galls replaced those made from carbon.
+
+At some point the individual texts began to be compiled into collections, though no one knows exactly when this happened. Strangely enough, a plot of collection size versus estimated time of appearance produces a reasonably straight line. 
+
+Collection | Date (AD) | Size (pages) | Comments
+:------------|:------------|:------------|:------------
+Individual writings | 65 | 112 | Luke's Gospel is the size of one roll of papyrus.
+Paul's letters | 100 | 248 | Zuntz thinks that Paul's writings were circulating as a collection by 100 AD.
+The Four Gospels | 160 | 394 | Irenaeus describes the four Gospels as a unit about this time.
+The New Testament | 360 | 855 | Athanasius lists the twenty seven books and letters in his Easter letter of 367 AD.
+
+```{r size-date, fig.cap='Collection size versus date', out.width='80%', fig.asp=.75, fig.align='center', echo=FALSE}
+par(mar = c(4, 4, .1, .1))
+date=c(65, 100, 160, 360)
+size=c(112, 248, 394, 855)
+plot(date, size, type = 'b', pch = 19)
+```
+
+The transition from rolls (i.e. long sheets rolled onto spindles) to codices (i.e. multi-page books) seems to have taken place quite early. Christians were early adopters of the codex form for their writings. Nearly all New Testament manuscripts are codices.
+
+Another early development was production of translations from the original Greek into languages such as Latin, Coptic, Syriac, Armenian, Georgian, Ethiopic, Gothic, and Slavonic. Many copies of these *versions* of the New Testament were also made.
+
+## Witnesses
+
+The New Testament is preserved in a number of kinds of text:
+
+* manuscripts (i.e. copies in Greek)
+* versions (i.e. ancient translations)
+* patristic quotations (i.e. citations of the New Testament included in writings and commentaries produced by the Church Fathers).
+
+The term *witnesses* is used as a collective term for these classes.
+
+## Textual variation
+
+When the witnesses are compared, it soon becomes apparent that there are differences of wording. These might have arisen through copying lapses, translational vagueries, and errors of memory (as when a Church Father recited from memory when quoting a New Testament passage.)
+
+Each place where there is a difference between texts may be called a *variation site*; each variation on the text may be called a *reading*; and the list of witnesses that support a particular reading may be called its *attestation*. Taken together, a variation site with its readings and attestations may be called a *variation unit*.
+
+There are different kinds of variation. No one had dictionaries in the olden days and people spelled as they thought best. *Orthographic* (= *right writing*) differences affect the look of a word but not its meaning (e.g. *emphasise* versus *emphasize* versus *Em-Pha-Size*). *Substantive* or *semantic* differences affect the actual meaning (e.g. *their* versus *there*). Naturally enough, most editors are only interested in semantic differences; however, orthographic differences represent a rich and largely untapped resource when it comes to establishing relationships between witnesses.
+
+Just how a text is divided into variation sites depends on who did the division -- it's a matter of editorial preference. There are algorithmic approaches as well (e.g. as used by [diff](https://en.wikipedia.org/wiki/Diff)). There seems to be a happy medium between variation sites that cover too many words and too few. One possible definition of a variation site is a place where a single unit of meaning can be replaced by another.
+
+Arranging texts into variation sites, readings, and attestations is not a trivial matter. To illustrate the difficulties, consider the following hypothetical witnesses to a [well known text](https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana):
+
+Witness | Text
+:---|:------------
+A | Time flies lyk a narrow fruit -- flys lick a banana.
+B | Thyme flees like an arrow; frute flies like an apple.
+C | O tempo voa como uma flecha; a fruta voa como uma banana.
+D | He sayeth time flieth like an arrow then again fruit f...s enjoyeth a good meal.
+
+As you can see, many decisions need to be made:
+
+* how does one split and align the texts?
+* how does one deal with punctuation?
+* which differences are orthographic and which are semantic (e.g. should *lyk* be *like* or *lick*)?
+* which text is best supported by a version (i.e. translation)?
+* where does a quotation start and end (e.g. in witness D should *then again* be the commentator's words or the text being cited)?
+* how does one deal with missing text (e.g. should *f...s* be *flies*, *fleas*, or something else)?
+
+## Critical editions
+
+A great deal of editorial work goes into the collection and interpretation of data that is ultimately presented in a critical edition such as the United Bible Societies *Greek New Testament*. lists the various witnesses
+
+
+An important aim is to establish the *initial* text of the New Testament, namely the closest approximation to the Apostolic text that can be reconstructed today.
+
+Various approaches are employed:
+
+* choose the 
+
+## Textual variation
+
+
+## Scraps
+
+| Figure | Sphere | Gospel | Letters |
+|------------|------------|------------|------------|
+| James | Aramaic speaking Jews; Holy Land | Matthew | James |
+| Peter | Greek speaking Jews; Diaspora | Mark | 1-2 Peter |
+| Paul | Non-Jews; Roman Empire | Luke | Paul's letters |
+| John | All of the above (as the last man standing) | John | 1-3 John; Apocalypse |
+
+Hebrews was perhaps the work of one of Paul's coworkers (Silas? cf. points of contact with 1 Peter) while Jude seems to have reused parts of the second letter of Peter (or vice versa).
+
+As for when the texts were written, most dating schemes place the *terminus ante quem* before the end of the first century. (That is, all twenty seven books were written before 100 AD.) Some, including John A. T. Robinson, date the entire production before 70 AD, positing the absence of *He told you so* passages in relation to Jesus' prediction of the Temple's destruction as evidence. (The theory is that it would have been hard for the writers to resist pointing out that Jesus' prophecy had been fulfilled if they wrote after 70 AD.)
+
+One of the aims of New Testament textual research is to establish the initial text. 
