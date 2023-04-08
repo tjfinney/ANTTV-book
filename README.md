@@ -16,3 +16,5 @@ This is one of a set of repositories relating to analysis of New Testament textu
 ## About this book
 
 This book was written using [R Markdown](https://rmarkdown.rstudio.com/) and produced with Yihui Xie's [bookdown package] (https://bookdown.org/yihui/bookdown/).
+
+...
