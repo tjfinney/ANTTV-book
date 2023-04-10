@@ -1,0 +1,11 @@
+# Data reduction
+
+Why necessary and how done...
+
+## Sampling error
+
+...
+
+## Reducing sampling error
+
+...

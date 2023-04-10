@@ -1,0 +1,35 @@
+# Data sets
+
+...
+
+## Data matrices
+
+...
+
+### UBS *GNT* encoding rules
+
+As a general rule, attestations representing three-quarters or more of a class of witnesses are taken to be the class reading.
+
+X vs X-mss (e.g. Irenaeus<sup>lat</sup> vs Irenaeus<sup>lat</sup><sup>mss</sup>)
+: Record NA
+
+X-ms vs X-mss
+: Record mss reading
+
+X-ms vs X-ms
+: Record NA
+
+X-mss vs X-mss
+: Record NA
+
+X-a/d vs X-b/d
+: Record reading if largest ratio &ge; 3/4 (0.75) else record NA
+
+## Distance matrices
+
+...
+
+## Sources
+
+...
+

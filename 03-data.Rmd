@@ -1,3 +1,0 @@
-# Data
-
-Making a data matrix from information on textual variation.

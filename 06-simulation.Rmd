@@ -1,0 +1,57 @@
+# Simulation
+
+...
+
+## Populations
+
+Of Christians and MSS (sigmoid growth until ~300 AD)
+
+Population centres
+
+## Copying process
+
+...
+
+### Triggers
+
+...
+
+### Changes of textual state
+
+...
+
+#### Parochial bias
+
+...
+
+### Correction
+
+...
+
+### Destruction
+
+...
+
+### Recovery
+
+...
+
+## Analysis of generated data sets
+
+...
+
+## Evaluation of analysis methods
+
+...
+
+## Strategies for recovering the initial text
+
+...
+
+### Majority of sampled readings
+
+...
+
+### Majority of medoid readings
+
+...

@@ -1,3 +1,0 @@
-# Distances
-
-How to make a distance matrix from a data matrix.

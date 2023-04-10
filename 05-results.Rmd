@@ -1,0 +1,35 @@
+# Results
+
+Results of the various methods applied to textual variation data for a selection of New Testament books.
+
+## Matthew
+
+...
+
+## Mark
+
+...
+
+## Luke
+
+...
+
+## John
+
+...
+
+## Acts
+
+...
+
+## Romans
+
+...
+
+## James
+
+...
+
+## Revelation
+
+...
