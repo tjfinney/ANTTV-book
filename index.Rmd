@@ -5,15 +5,15 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: ["ANTTV.bib"]
 biblio-style: apalike
 link-citations: yes
 #github-repo: rstudio/bookdown-demo
-description: "A book applying multivariate analysis to New Testament textual variation. The book uses Yihui Xie's bookdown package. The output format is bookdown::gitbook."
+description: "A book about analysis of New Testament textual variation. It uses Yihui Xie's *bookdown* package with output format bookdown::gitbook."
 ---
 
 # Preface {-}
 
-Started *ANTTV* at last... Please help me do this, Eternal One.
+About *ANTTV*.
 
-...
+Praise my soul the King of Heaven.

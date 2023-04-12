@@ -1,4 +1,6 @@
-# Introduction {#intro}
+(APPENDIX) Appendix {-} 
+
+# Appendix A
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
@@ -20,7 +22,7 @@ knitr::kable(
 
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
 
-# Prerequisites
+# Appendix B
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
@@ -72,35 +74,6 @@ Remember each Rmd file contains one and only one chapter, and a chapter is defin
 
 To compile this example to PDF, you need to install XeLaTeX.
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
-
-# Literature
-
-Here is a review of existing methods.
-
-# Methods
-
-We describe our methods in this chapter.
-
-# Applications
-
-Some _significant_ applications are demonstrated in this chapter.
-
-## Example one
-
-## Example two
-
-# Final Words
-
-We have finished a nice book.
-
-`r if (knitr:::is_html_output()) '# References {-}'`
-
 ## Notes
 
 A many-way PAM partition of data for Acts 1-16 extracted from the apparatus of the UBS Greek New Testament (5th ed.) places 181 in a group with Psi, 614, Syr-p, Syr-h, and Old Church Slavonic. Syriac influence may be the common factor. (Concerning the Old Church Slavonic version, Crimea was once under the ecclesiastical jurisdiction of Antioch.[7]) 
@@ -116,3 +89,9 @@ sum(!(is.na(x["L1178",])))
 
 sum(!(is.na(x["Lect",])))
 ```
+Wickham, Hadley and Jenny Bryan. [R Packages](https://r-pkgs.org/).
+
+Yu, Guangchuang. [Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/index.html).
+
+Xie, Yihui. [Bookdown](https://bookdown.org/).
+

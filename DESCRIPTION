@@ -1,6 +1,6 @@
-Package: placeholder
+Package: ANTTV.book
 Type: Book
-Title: Does not matter.
-Version: 0.0.1
+Title: Analysis of New Testament Textual Variation
+Version: 23.04.10.01
 Imports: bookdown
 Remotes: rstudio/bookdown

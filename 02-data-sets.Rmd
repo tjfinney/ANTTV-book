@@ -6,11 +6,22 @@
 
 ...
 
-### UBS *GNT* encoding rules
+### Encoding rules
 
-As a general rule, attestations representing three-quarters or more of a class of witnesses are taken to be the class reading.
+Various kinds of uncertainty can affect the information recorded in a critical apparatus. For instance, a witness may be marked with *vid* for *ut videtur* (= *it seems*). As another example, at Rom. 1.1 the UBS *Greek New Testament* (5th ed.) lists Origen<sup>2/3</sup> in support of the first reading and Origen<sup>1/3</sup> as supporting the second. (That is, two out of three sources of Origen's readings have the first reading while one of the three has the second.)
 
-X vs X-mss (e.g. Irenaeus<sup>lat</sup> vs Irenaeus<sup>lat</sup><sup>mss</sup>)
+The following set of encoding rules have been developed to handle such cases. The general approach is to only encode support if it is beyond reasonable doubt, otherwise to record NA (for *not available*). In cases where proportions of sources supporting readings of a witness are known, a minimum value of 3/4 (0.75) is required for the reading of the witness to be registered. (Given that 2/3 is less than 3/4, the majority reading of Origen's witnesses in the Rom. 1.1. example above has insufficient support to be recorded.)
+
+X? (e.g. NBS?)
+: Record reading
+
+(X) (e.g. (eth))
+: Record reading
+
+X-vid (e.g. P<sup>26vid</sup>)
+: Record reading. (Presumably the editor is convinced that the witness supports the indicated reading more than the others, despite some uncertainty.) 
+
+X vs X-mss (e.g. Irenaeus<sup>lat</sup> vs Irenaeus<sup>lat-mss</sup>)
 : Record NA
 
 X-ms vs X-mss
@@ -23,7 +34,10 @@ X-mss vs X-mss
 : Record NA
 
 X-a/d vs X-b/d
-: Record reading if largest ratio &ge; 3/4 (0.75) else record NA
+: Record reading with largest ratio if &ge; 3/4 (0.75); otherwise record NA
+
+If in doubt (e.g. Origen<sup>gr, lat</sup> vs Origen<sup>acc. to 1739</sup>)
+: Record NA
 
 ## Distance matrices
 

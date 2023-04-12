@@ -1,6 +1,18 @@
-book_filename: "foobar"
+book_filename: "TBA"
 language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
-rmd_files: ["index.Rmd", "01-introduction.Rmd", "02-statistics.Rmd"]
+rmd_files: [
+  "index.Rmd",
+  "01-introduction.Rmd",
+  "02-data-sets.Rmd",
+  "03-data-reduction.Rmd",
+  "04-analysis-methods.Rmd",
+  "05-results.Rmd",
+  "06-simulation.Rmd",
+  "07-discussion.Rmd",
+  "08-conclusion.Rmd",
+  "09-appendices.Rmd",
+  "10-references.Rmd",
+]

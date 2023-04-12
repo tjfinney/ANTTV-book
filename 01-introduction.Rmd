@@ -1,8 +1,8 @@
 # Introduction
 
-Many have undertaken to write accounts of how the New Testament was handed down to us by those who wrote, copied, translated, and watched over the text. It seemed good to me, having carefully investigated the matter, to write an orderly account for you, dear Reader, so that you might know the veracity of the words that have been transmitted to us.
+Many have undertaken to describe how the New Testament was handed down to us by those who wrote, copied, translated, and watched over the text. It seemed good to me, having carefully investigated the matter, to write an account for you, dear Reader, so that you might know the sureness of the words that have been transmitted to us.^[Apologies for butchering Luke's fine prologue. Useful introductions to New Testament textual criticism include @aland_text_1995, @elliott_manuscripts_2000, @gamble_books_1997, @hurtado_earliest_2006, @metzger_text_2005, @parker_introduction_2008, and @vaganay_introduction_1991.]
 
-The twenty seven books and letters of the New Testament have been faithfully copied ever since they were first written by the Apostles and their helpers. Of all the ancient texts, the New Testament is by far the most well founded. There are more copies closer in date to the time of original composition than for any other written work predating mechanized printing.
+The twenty seven books and letters of the New Testament were copied by hand from the time of their composition until the invention of mechanized printing. Of all the ancient texts, the New Testament is by far the most well founded -- there are more copies closer in date to the originals than for any other work.
 
 Individual copies are called *manuscripts*, from the Latin *manuscriptum* for *hand written*. *Manuscript* is often abbreviated as *MS* and *manuscripts* as *MSS*, using the Latin habit of doubling the last letter to pluralize. MSS were copied by hand, at first using papyrus for writing material and carbon-based ink. Parchment then paper later displaced papyrus, while inks produced from iron salts and oak galls replaced those made from carbon.
 
